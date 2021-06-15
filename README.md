@@ -10,6 +10,6 @@ The red ship is on the right and is controlled by the arrow keys.
 In order to shoot, the CTRL key on the right must be pressed. 
 
 Each ship can only be hit 10 times before the health diminshes to 0.
-Each ship must can only stay on their respective half of the screen.
+Each ship can only stay on their respective half of the screen.
 
 Enjoy!
